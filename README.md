@@ -1,2 +1,2 @@
 # CSE-110
-I love JacaScript
+I love JavaScript
